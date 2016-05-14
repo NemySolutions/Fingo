@@ -8,3 +8,40 @@
 .navbar .navbar-collapse {
   text-align: center;
 }
+
+.navbar-inverse {
+  background: transparent;
+  border: transparent;
+}
+
+.carousel-inner {
+  background: #000000;
+}
+
+.carousel .item {
+  background: url(//static.gosquared.com/images/home/2016/bg_hero_03.png) center bottom no-repeat,linear-gradient(-180deg,#031521 1%,#005897 100%);
+}
+
+.main-menu {
+  font-size: 1.2em;
+}
+
+h2 {
+  text-align: center;
+/*  margin: 2%;*/
+}
+
+.portfolio-item {
+  margin-top: 2%;
+}
+
+.products {
+  background-color: #3023AE;
+  background-image: linear-gradient(-134deg,#3023AE 0,#C86DD7 100%);
+  text-align: center;
+}
+
+.product-header {
+  text-align: center;
+  padding: 10px;
+}
